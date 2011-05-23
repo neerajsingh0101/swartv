@@ -545,11 +545,11 @@ html { margin-top: 0px !important; }
     z-index: -1;
 }
 
-#playing{margin:275px 118px}
-#tv{position:absolute;z-index:-1;margin:165px 75px;height:605px}
+#playing{margin:145px 118px}
+#tv{position:absolute;z-index:-1;margin:35px 75px;height:605px}
 
-#logo{position:absolute;z-index:1px;margin:25px 250px}
-#next{margin:10px;margin:280px 709px;position:absolute;z-index:3}
+#next{margin:10px;margin:150px 709px;position:absolute;z-index:3}
+
 #bigbinary{font-family:arial;font-size:12px;margin:765px 695px;position:absolute;width:110px;color:#e1fa71;background:#000;padding:2px}
 #tall_ad{margin:140px 830px;position:absolute}
 #wide_ad{margin:790px 80px;position:absolute}a{color:#FFF;Â }
