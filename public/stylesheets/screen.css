@@ -548,7 +548,7 @@ html { margin-top: 0px !important; }
 #playing{margin:145px 118px}
 #tv{position:absolute;z-index:-1;margin:35px 75px;height:605px}
 
-#next{margin:10px;margin:150px 709px;position:absolute;z-index:3}
+#next{margin:10px;margin:150px 709px;position:absolute;z-index:3; display:none;}
 
 #bigbinary{font-family:arial;font-size:12px;margin:765px 695px;position:absolute;width:110px;color:#e1fa71;background:#000;padding:2px}
 #tall_ad{margin:140px 830px;position:absolute}
