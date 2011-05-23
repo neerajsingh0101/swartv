@@ -1,0 +1,2 @@
+To add videos go to config/initializers/videos.rb and add the youtube video ids there.
+
